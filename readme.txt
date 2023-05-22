@@ -1,7 +1,7 @@
-=== Simple Cloudflare Turnstile — The new user-friendly alternative to CAPTCHA ===
+=== Cloudflare Turnstile With Comply — Require the user to opt-in the turnstile ===
 Contributors: ElliotVS, RelyWP, Severino
 Tags: cloudflare,turnstile,captcha,protect,spam
-Donate link: https://www.paypal.com/donate/?hosted_button_id=RX28BBH7L5XDS
+Donate link: https://www.paypal.com/donate/?hosted_button_id=N7BQEAGSUY4RS
 Requires at least: 4.7
 Tested up to: 6.2
 Stable Tag: trunk
@@ -11,6 +11,11 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Add Cloudflare Turnstile to WordPress, WooCommerce, Contact Forms & more. The user-friendly, privacy-preserving reCAPTCHA alternative. 100% free!
 
 == Description ==
+
+This is just a temporary plugin that allows to make the integration optional and the user
+must actively opt-in before loading the script from and sending information to cloudflare.
+Please use the original plugin if you don't need this feature!
+https://wordpress.org/plugins/simple-cloudflare-turnstile/
 
 Easily add Cloudflare Turnstile to all your WordPress website forms to protect them from spam!
 
